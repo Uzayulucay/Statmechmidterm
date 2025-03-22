@@ -1,5 +1,4 @@
-#, Temperature  in K - Specific Heat (cal/mol/K)
-# Source: ROBERT R. REEBER and KAI WANG  Journal of Electronic Materials  Vol. 25  No. 1  Page 63 1996
+#, Temperature  in K - Specific Heat (cal/mol/K) # Source: ROBERT R. REEBER and KAI WANG  Journal of Electronic Materials  Vol. 25  No. 1  Page 63 1996
 1, 0.0001
 50,  0.0125
 100,  0.0498
